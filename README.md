@@ -1,4 +1,4 @@
-Web APIs & NLP 🍄
+# Web APIs & NLP 🍄
 
 # Introduction:
 
@@ -57,8 +57,8 @@ By utilizing these models and vectorization techniques, we can explore different
 
 ### Classification Report
 
-|Model|Vectorizer|Precision|Recall|F1-Score|Support|Test Accuracy|
-|-----|---------|----------|------|--------|-------|--------------|
+|Model|Vectorizer|Precision|Recall|F1-Score|Support|
+|-----|---------|----------|------|--------|-------|
 |Random Trees (Psychonaut)|TfidfVectorizer|0.8577|0.8544|0.8560|522|
 |Random Trees (Psychonaut)|CountVectorizer|0.8832|0.8544|0.8685|522|
 |Naive Bayes (Psychonaut)|TfidfVectorizer|0.8738|0.8535|0.8635|430|
@@ -86,4 +86,4 @@ Furthermore, exploring other models such as gradient boosting, support vector ma
 
 By incorporating these recommendations, we can continue to refine our classifier and provide more comprehensive and accurate insights for those interested in exploring the realm of human consciousness and psychedelic exploration.
 
-Thank you for joining me on this journey of understanding and discovery
+Thank you for joining me on this journey of understanding and discovery.
